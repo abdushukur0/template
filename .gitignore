@@ -1,1 +1,6 @@
-/#Sourse/
+/src/
+/gulp/
+/шаблон/
+gulpfile.js
+package-lock.json
+package.json
